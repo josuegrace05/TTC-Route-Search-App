@@ -1,0 +1,6 @@
+framework module Pods_MobileTTC {
+  umbrella header "Pods-MobileTTC-umbrella.h"
+
+  export *
+  module * { export * }
+}
